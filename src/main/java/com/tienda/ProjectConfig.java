@@ -83,5 +83,4 @@ public class ProjectConfig implements WebMvcConfigurer {
         ms.setDefaultEncoding("UTF-8");
         return ms;
     }
-} 
-
+}
